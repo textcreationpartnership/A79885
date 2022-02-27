@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for Mr. Clark's supplement to his annotations, which both together make a compleat commentary on the Holy Scriptures: being a survey of the whole Bible Contaning an analytical account, or division of all the Holy Scriptures; according a pleasant prospect into the several rooms of this sacred edifice, and the variety of furniture contained in them.</title>
+            <author>Clarke, Samuel, 1675-1729.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79885</idno>
+            <idno type="STC">Wing C4495A</idno>
+            <idno type="STC">ESTC R230205</idno>
+            <idno type="EEBO-CITATION">99896221</idno>
+            <idno type="PROQUEST">99896221</idno>
+            <idno type="VID">153866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2384:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for Mr. Clark's supplement to his annotations, which both together make a compleat commentary on the Holy Scriptures: being a survey of the whole Bible Contaning an analytical account, or division of all the Holy Scriptures; according a pleasant prospect into the several rooms of this sacred edifice, and the variety of furniture contained in them.</title>
+                  <author>Clarke, Samuel, 1675-1729.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page [3] numbered 1.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Dr. Williams' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Publication and distribution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153866:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <head>PROPOSALS FOR Mr. <hi>CLARK</hi>'S SUPPLEMENT to his <hi>Annotations,</hi> which both together make a compleat Commentary on the Holy Scriptures: BEING A Survey of the whole Bible.</head>
+            <head type="sub">Containing An Analytical Account, or Diviſion of all the Holy Scriptures; affording a pleaſant Proſpect into the ſeveral Rooms of this ſacred Edifice, and the Variety of Furniture contained in them.</head>
+            <p>THIS is the moſt exact and uſeful Work of this kind extant. For the <hi>Analyſis</hi> in <hi>Deodate</hi> is part<g ref="char:EOLhyphen"/>ly ſo general, and partly ſo confuſed, that it's of little or no Uſe. The <hi>Analyſis</hi> alſo in <hi>Robert</hi>'s Key, is for the moſt part too general. But this gives an Account of the ſeveral Parts both general and particular of every Chapter, brought down to every Verſe, eſpecially in
+<pb facs="tcp:153866:2"/>
+               <!-- PDF PAGE 59 -->
+the Doctrinal and Prophetical Books, and ſometimes of particular Verſes.</p>
+            <p>In which reſpect it will be exceeding uſeful, both for <hi>Miniſters</hi> to ſhew the Coherence and Connection of a Text; and likewiſe to furniſh with Matter of Enlarge<g ref="char:EOLhyphen"/>ment upon any Text there is occaſion to quote: And alſo for <hi>private Chriſtians</hi> in their daily Courſe of read<g ref="char:EOLhyphen"/>ing the Scriptures, to give a more comprehenſive Un<g ref="char:EOLhyphen"/>derſtanding of the Drift, Scope, and Deſign of every Chapter, and thereby the better to fix it in their Me<g ref="char:EOLhyphen"/>mories.</p>
+            <p>The Perſon under-written doth offer theſe PROPO<g ref="char:EOLhyphen"/>SALS to all ſuch as are willing to encourage ſuch a uſeful Book, <hi>viz.</hi>
+               <list>
+                  <item>I. That the Book conſiſts of 107 Sheets, on Paper and Character, in <hi>Quarto,</hi> anſwerable unto the follow<g ref="char:EOLhyphen"/>ing <hi>Specimen.</hi>
+                  </item>
+                  <item>II. That a perfect Book unbound ſhall be delivered unto each Subſcriber, who ſhall pay Nine Shillings: which, conſidering the exceſſive Dearneſs of Paper, is no hard Condition.</item>
+                  <item>III. To encourage all Perſons that ſhall procure ſix Books, he or they ſhall have a ſeventh <hi>gratis.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Undertaker, is <hi>Jonathan Robinſon,</hi> at the Gol<g ref="char:EOLhyphen"/>den Lion in St. <hi>Paul</hi>'s Church-yard, Bookſeller.</p>
+            <p>Here followeth a <hi>Specimen</hi> of the Method and Order of this Work.</p>
+            <div type="part">
+               <pb n="1" facs="tcp:153866:2"/>
+               <!-- PDF PAGE 59 -->
+               <head>GENESIS.</head>
+               <p>THis Book contains the Hiſtory,
+<list>
+                     <item>1.<hi>Of the Creation of the World,</hi> chap. 1.</item>
+                     <item>2.<hi>Of the State of Innocency,</hi> ch. 2.</item>
+                     <item>3.<hi>Of the Fall,</hi> c. 3.</item>
+                     <item>4.<hi>Of the Government of the Church,</hi>
+                        <list>
+                           <item>1.<hi>Before the Flood,</hi> c. 4, 5, 6.</item>
+                           <item>2.<hi> After the Flood; and that</hi>
+                              <list>
+                                 <item>(1)<hi>ſcattered over the whole World,</hi> c. 7-11.</item>
+                                 <item>(2)<hi>In <hi>Abram</hi>'s Fa<g ref="char:EOLhyphen"/>mily and Poſterity. And therein is contain'd the Hi<g ref="char:EOLhyphen"/>ſtory;</hi>
+                                    <list>
+                                       <item>1.<hi>Of <hi>Abram, c.</hi>
+                                          </hi> 12-24.</item>
+                                       <item>2.<hi>Of <hi>Iſaac, c.</hi>
+                                          </hi> 25-27.</item>
+                                       <item>3.<hi>Of <hi>Jacob, c.</hi>
+                                          </hi> 28-36.</item>
+                                       <item>4. <hi>Of <hi>Joſeph, c.</hi>
+                                          </hi> 37-50.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <div n="1" type="chapter">
+                  <head>CHAP. I.</head>
+                  <p>IN this Chapter is deſcribed the Creation of the viſible World, with all the Creatures therein contain'd: Shew<g ref="char:EOLhyphen"/>ing,
+<list>
+                        <item>I. The general <hi>Matter</hi> of all, <hi>v.</hi> 1.<label type="milestone">
+                              <seg type="milestoneunit">Ver. </seg>1</label>
+                        </item>
+                        <item>II. The <hi>Nature</hi> or Condition of that Matter, <hi>v.</hi> 2.<label type="milestone">
+                              <seg type="milestoneunit">Ver. </seg>2</label>
+                        </item>
+                        <item>III. The <hi>Forming</hi> of the ſeveral Creatures out of that Lump on the ſeveral Days: As,
+<list>
+                              <item>1. On the firſt Day, <hi>Light:</hi> concerning which is ſhew'd,
+<list>
+                                    <item>(1) God's <hi>Decree</hi> about it.</item>
+                                    <item>(2) The <hi>Execution</hi> there<g ref="char:EOLhyphen"/>of, or the Creature made, <hi>v.</hi> 3.</item>
+                                    <item>(3) God's <hi>Appro<g ref="char:EOLhyphen"/>bation</hi>
+                                       <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>3</label> of it.</item>
+                                    <item>(4) Its <hi>Separation.</hi> from <hi>Darkneſs, v.</hi> 4.<label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>4</label>
+                                    </item>
+                                    <item>(5) The <hi>Name</hi> thereof; together with the <hi>Time, v.</hi> 5.<label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>5</label>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>2. On the ſecond Day, the <hi>Firmament;</hi> concerning which is ſhew'd,
+<list>
+                                    <item>(1) God's <hi>Decree, v.</hi> 6.</item>
+                                    <item>(2) The <hi>Execution</hi>
+                                       <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>6</label> of it, <hi>v.</hi> 7.</item>
+                                    <item>(3) The <hi>Names;</hi> together with the <hi>Time, v.</hi> 8.<label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>7, 8.</label>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <pb n="2" facs="tcp:153866:3" rendition="simple:additions"/>
+                                 <!-- PDF PAGE 60 -->
+3. On the third Day, the <hi>Gathering together of the Waters, and the dry Land:</hi> Concerning which is ſhewed,
+<list>
+                                    <item>
+                                       <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>9</label>(1) God's <hi>Decree;</hi> together with the <hi>Execution, v.</hi> 9.</item>
+                                    <item>
+                                       <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>10</label>(2) The <hi>Name;</hi> together with the <hi>Approbation, v.</hi> 10.</item>
+                                    <item>(3) The <hi>Decree</hi> concerning the <hi>Earth's</hi> bringing forth <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>11</label>
+                                       <hi>Graſs, Herbs</hi> and <hi>Trees, v.</hi> 11.</item>
+                                    <item>(4) The <hi>Execution</hi> and <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>12, 13</label> 
+                                       <hi>Approbation, v.</hi> 12.</item>
+                                    <item>(5) The <hi>Time, v.</hi> 13.</item>
+                                 </list>
+                              </item>
+                              <item>4. On the fourth Day the <hi>Furniture</hi> of the <hi>Firmament,</hi> with <hi>Sun, Moon and Stars:</hi> Concerning which is ſhewed,
+<list>
+                                    <item>(1) The <hi>Decree</hi> concerning them; together with the <hi>Place</hi>
+                                       <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>14, 15</label> and <hi>
+                                          <g ref="char:V">Ʋ</g>ſes</hi> thereof, <hi>v.</hi> 14, 15.</item>
+                                    <item>(2) The <hi>Execution</hi> thereof,<label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>16-19</label> 
+                                       <hi>v.</hi> 16-18.</item>
+                                    <item>(3) The <hi>Time, v.</hi> 19.</item>
+                                 </list>
+                              </item>
+                              <item>5. On the fifth Day the <hi>Furniture</hi> of the <hi>Waters</hi> and <hi>Air,</hi> with <hi>Fiſhes</hi> and <hi>Fowl:</hi> Concerning which is ſhewed,
+<list>
+                                    <item>
+                                       <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>20</label>(1) The <hi>Decree, v.</hi> 20.</item>
+                                    <item>(2) The <hi>Execution</hi> and <hi>Approba<g ref="char:EOLhyphen"/>tion</hi>
+                                       <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>21, 22</label> thereof, <hi>v.</hi> 21.</item>
+                                    <item>(3) God's <hi>Bleſſing, v.</hi> 22.</item>
+                                    <item>(4) The <label type="milestone">
+                                          <seg type="milestoneunit">Ver. </seg>23</label> 
+                                       <hi>Time, v.</hi> 23.</item>
+                                 </list>
+                              </item>
+                              <item>6. On the ſixth Day the Furniture of the <hi>Earth,</hi> with <hi>living Creatures,</hi>
+                                 <list>
+                                    <item>1. <hi>Senſitive:</hi> concerning which is ſhewed,
+<list>
+                                          <item>(1) The <hi>De<g ref="char:EOLhyphen"/>cree,<label type="milestone">
+                                                   <seg type="milestoneunit">Ver. </seg>24, 25</label> v.</hi> 24.</item>
+                                          <item>(2) The <hi>Execution</hi> and <hi>Approbation, v.</hi> 25.</item>
+                                       </list>
+                                    </item>
+                                    <item>2. <hi>Rational:</hi> concerning which is ſhewed,
+<list>
+                                          <item>(1) The Divine <hi>Conſultation</hi> about it.</item>
+                                          <item>(2) The Divine <hi>Pattern,</hi> accord<g ref="char:EOLhyphen"/>ing to which he was framed.</item>
+                                          <item>(3) The <hi>State</hi> in which he was to be p<gap reason="illegible: missing" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap>ac'd; to be Lord over all God's Works <label type="milestone">
+                                                <seg type="milestoneunit">Ver. </seg>26</label> here below, <hi>v.</hi> 26.</item>
+                                          <item>(4) The <hi>Work done;</hi> and that as to <label type="milestone">
+                                                <seg type="milestoneunit">Ver. </seg>27, 28</label> the different Sexes, <hi>v.</hi> 27.</item>
+                                          <item>(5) God's <hi>Bleſſing, v.</hi> 28.</item>
+                                          <item>
+                                             <label type="milestone">
+                                                <seg type="milestoneunit">Ver. </seg>29</label>(6) God's Appointment of <hi>Food.</hi>
+                                             <list>
+                                                <item>1. For <hi>Man, v.</hi> 29.</item>
+                                                <item>
+                                                   <label type="milestone">
+                                                      <seg type="milestoneunit">Ver. </seg>30</label> 2. For the <hi>Beaſts, v.</hi> 30.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>IV. Gods <hi>Approbation</hi> of all his Works; together with the <label type="milestone">
+                              <seg type="milestoneunit">Ver. </seg>31</label> 
+                           <hi>Time, v.</hi> 31.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="2" type="chapter">
+                  <head>CHAP. II.</head>
+                  <p>IN this Chapter the Account of the World's Creation is en<g ref="char:EOLhyphen"/>larged;</p>
+                  <list>
+                     <item>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Ver. </seg>1</label> I. By a <hi>Recapitulation</hi> of the whole, <hi>v.</hi> 1.</item>
+                     <item>II. In reſpect of the Inſtitution of the <hi>Sabbath;</hi> and that
+<list>
+                           <item>(1) By <label type="milestone">
+                                 <seg type="milestoneunit">Ver. </seg>2</label> God's <hi>Reſting</hi> on the Seventh-day, <hi>v.</hi> 2.</item>
+                           <item>(2) <hi>Bleſſing</hi> and <label type="milestone">
+                                 <seg type="milestoneunit">Ver. </seg>3</label> 
+                              <hi>Sanctifying</hi> it upon that Ground, <hi>v.</hi> 3.</item>
+                        </list>
+                     </item>
+                     <item>III. By a further Account of the <hi>Manner</hi> how things came to <label type="milestone">
+                           <seg type="milestoneunit">Ver. </seg>4</label> have a Being; which was by God's <hi>Power</hi> alone, <hi>v.</hi> 4. Par<g ref="char:EOLhyphen"/>ticularly;</item>
+                     <gap reason="missing" extent="1+ pages">
+                        <desc>〈1… pages missing〉</desc>
+                     </gap>
+                  </list>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
